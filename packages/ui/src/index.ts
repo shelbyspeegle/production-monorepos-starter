@@ -1,2 +1,2 @@
-// Components will be exported from here
+export { Button } from './button'
 export { Card } from './card'
